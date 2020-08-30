@@ -3,15 +3,15 @@
 
 Mostly working on **React** and **React Native** based application development.
 Employed as a Teamlead | Software Engineer at Noetic Marketing Technologies, Colombo 
-<a href="https://github.com/vikum-noetic">
+<a href="https://github.com/vikum-noetic" target="_blank">
   <img src="https://img.icons8.com/fluent/20/000000/github.png"/>
 </a>
 
 Find me on
 
-<a href="https://twitter.com/SamVP007">
+<a href="https://twitter.com/SamVP007" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/vikum-samaranayake-4ab99392/">
+<a href="https://www.linkedin.com/in/vikum-samaranayake-4ab99392/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>

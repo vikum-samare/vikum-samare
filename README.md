@@ -12,3 +12,6 @@ Find me on
 <a href="https://github.com/vikum-noetic" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
+<a href="https://stackoverflow.com/users/14369686/vikum-samare" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a>

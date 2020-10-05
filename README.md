@@ -6,7 +6,7 @@ Employed as a Teamlead | Software Engineer at Noetic Marketing Technologies, Col
 
 Find me on
 
-<a href="https://www.linkedin.com/in/vikum-samaranayake-4ab99392/" target="_blank">
+<a href="https://www.linkedin.com/in/vikum-samaranayake/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="https://github.com/vikum-noetic" target="_blank">

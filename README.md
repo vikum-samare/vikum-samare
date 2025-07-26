@@ -5,9 +5,8 @@
 **AI tools I vibe with:**
 - ChatGPT _(coding and brainstorming)_
 - GitHub Copilot _(rapid prototyping and code completion)_
-- Perplexity ai for
-- Perplexity AI (research and deep dives)
-- Claude (text corrections and refinements) 
+- Perplexity AI (_research and deep dives_)
+- Claude (_text corrections and refinements_) 
 
 
 **Find me on:**<br/><br/>

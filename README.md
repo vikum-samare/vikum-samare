@@ -3,10 +3,10 @@
 🌏 I love exploring new technologies and travelling to discover new perspectives, constantly seeking creative ways to push my skills further. If you’d like to connect or chat about tech trends (or travel!), my LinkedIn and Stack Overflow profiles are linked below!
 
 **AI tools I vibe with:**
-- ChatGPT _(coding and brainstorming)_
-- GitHub Copilot _(rapid prototyping and code completion)_
 - Perplexity AI (_research and deep dives_)
-- Claude (_text corrections and refinements_) 
+- Claude (_coding, text corrections and refinements_)
+- GitHub Copilot _(rapid prototyping and code completion)_
+- ChatGPT _(brainstorming and basically anything else)_ 
 
 
 **Find me on:**<br/><br/>
